@@ -1,4 +1,14 @@
 {
 	"name": "@mansoorkamthewala/tiny",
-	"version": "2.0.1"
+	"version": "2.0.1",
+	"description": "A tiny npm module to display date in ISO format",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mansoorkamthewala/tiny.git"
+	},
+	"main": "./index",
+	"keywords": [
+		"ISO Date"
+	]
 }
